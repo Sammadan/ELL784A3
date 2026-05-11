@@ -35,3 +35,4 @@ test_dataset  = SoliDataset(DATA_ROOT, subject_ids=[0,1,2,3,4], training=False)
 Then re-run the cell. The final reported metric is the mean of the
 two folds.
 
+Path to Model - https://drive.google.com/drive/folders/1_ciRqTE5-5SgjjmWmTR7CjS4tfvxVKR5?usp=sharing
