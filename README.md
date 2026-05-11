@@ -12,7 +12,7 @@ four channels (`ch0`, `ch1`, `ch2`, `ch3`) of range-Doppler frames.
 
 ### Training and evaluation (single fold)
 
-Open `notebook.ipynb` and run all cells in order. The final cell:
+Open `a3-gan-soli.ipynb` and run all cells in order. The final cell:
 
 1. Loads train and test subjects
 2. Trains the GAN for 50 epochs
